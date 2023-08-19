@@ -2,4 +2,11 @@
 title: Neuroscience of Perception
 ---
 
-Welcome to NEU 323!
+# Welcome to Neuroscience of Perception @ ASU
+
+## Quick Links
+
+## Schedule
+
+## Course Policies
+
