@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Welcome to another page
+## Perception Book Clubs
 
 _yay_
 
