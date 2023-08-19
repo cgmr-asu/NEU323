@@ -1,5 +1,5 @@
 ---
-title: Example
+title: Neuroscience of Perception
 ---
 
-Example example example
+Welcome to NEU 323!
