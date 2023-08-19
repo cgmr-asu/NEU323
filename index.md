@@ -5,7 +5,7 @@ title: Neuroscience of Perception
 # Welcome to Neuroscience of Perception @ ASU
 
 ## Quick Links
-[Link to another page](./About.html).
+[Instructions for the book clubs](./Resources/BookClubs.html).
 
 ## Schedule
 
