@@ -1,5 +1,9 @@
 ---
-title: Book Clubs
---- 
+layout: default
+---
 
-Here are instructions for organizing your book club
+## Welcome to another page
+
+_yay_
+
+[back](./)
