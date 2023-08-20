@@ -8,7 +8,7 @@ title: Neuroscience of Perception
 [Instructions for the book clubs](./BookClubs.html).
 
 ## Schedule
-Required readings refer to chapters in the 10th edition of <u>Sensation and Perception</u> by Goldstein & Brockmole unless otherwise specificed here. 
+Required readings refer to chapters in the 10th edition of  Sensation and Perception by Goldstein & Brockmole unless otherwise specificed here. 
 | Module | Topic                       | Module End   | Required Readings             | Book Club Deadlines         |
 |--------|-----------------------------|-------------|-------------------------------|---------------------------|
 | 1      | Introducing Perception    | Exam on September 14      | Evolution Article; Ch 1; Ch 14       | Have submitted BC Plan |
