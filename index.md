@@ -6,6 +6,8 @@ title: Neuroscience of Perception
 
 ## Quick Links
 [Instructions for the book clubs](./BookClubs.html).
+[List of possible books](./BookList.html).
+
 
 ## Schedule
 Required readings refer to chapters in the 10th edition of  Sensation and Perception by Goldstein & Brockmole unless otherwise specificed here. 
