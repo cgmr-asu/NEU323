@@ -4,7 +4,9 @@ layout: default
 
 ## Shortlist for Book Club Selections
 
-Each 4-5 member book club in the class must select a book to read for the semester. These books all centrally discuss perception, but touch on different fields and are written in different styles. You may select any book from the shortlist here. In some cases, you can select another book, but this *must* be approved by instructor *before* you complete your book club plan. When selecting and reading books, remember that no book is completely authoritative! The authors might be right about some things and wrong about others -- you can disagree with the authors interpretations (and the instructor doesn't necessarily agree with all their interpretations either!).
+Each 4-5 member book club in the class must select a book to read for the semester. These books all centrally discuss perception, but touch on different fields and are written in different styles. You may select any book from the shortlist here. In some cases, you can select another book, but this *must* be approved by instructor *before* you complete your book club plan. The links here mostly go directly to the publishers' websites; however, the books are often available new and used from other retailers as well. As students, in many cases, you can access digital copies of these books for free through the ASU library. Search on the library website to check!
+
+One way to find a book as a group is to have each member read through the book descriptions and look up reviews for a different books and then meet together with your top choice. We will aim to have no two book clubs reading the same book, so try and survey your choices as soon as possible if you think you might be interested in a popular option!
 
 * [*Body Am I: The New Science of Self-Consciousness*](https://direct.mit.edu/books/book/5402/Body-Am-IThe-New-Science-of-Self-Consciousness) by Moheb Costandi
 * [*Smellosophy: What the Nose Tells the Mind*](https://www.hup.harvard.edu/catalog.php?isbn=9780674983694) by Ann-Sophie Barwich
