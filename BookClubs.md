@@ -10,8 +10,13 @@ In addition to the material covered in class meetings, readings, and your genera
 You will form a book club with three or four other students and collectively choose a book that you will read across the course of the semester. During the semester, you will meet several times to discuss the book on your own time and will develop a project related in some way to the topic of your book.
 
 ### Why are we doing book clubs?
+...
 
 ### What books can we choose?
+For a list of possible books, follow this [link](./BookList.html)! Each book club should choose a different book. Get in touch with the instructor if your group has difficulty finding a book related to your interests!
+
+### What do projects look like?
+...
 
 ### How are we graded on the book club? 
 25% of your total class grade is tied to your active participation in your book club. Grades related to the book club come from five subcomponents:
