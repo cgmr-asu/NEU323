@@ -12,10 +12,10 @@ Required readings refer to chapters in the 10th edition of  Sensation and Percep
 
 | Module | Topic                       | Module End   | Required Readings             | Book Club Deadlines         |
 |--------|-----------------------------|-------------|-------------------------------|---------------------------|
-| 1      | Introducing Perception    | Exam on September 14      | Evolution Article; Ch 1; Ch 14       | Have submitted BC Plan |
-| 2      | Neural Representation of Vision                | Exam on October 5      | Ch 2; Ch 3; Ch 4        | Have met at least 2 times          |
-| 3      | Objects and Attention         | Exam on October 26     | Ch 5; Ch 8; Ch 6       | Have met at least 3 times  |
-| 4      | Combining Senses         | Exam on November 16     | Ch 15; Ch 11; Ch 12         | Have met at least 4 times |
+| 1      | Introducing Perception    | Exam on September 14      | Evolution Article; Ch 1; 14       | Have submitted BC Plan |
+| 2      | Neural Representation of Vision                | Exam on October 5      | Ch 2; 3; 4        | Have met 2+ times          |
+| 3      | Objects and Attention         | Exam on October 26     | Ch 5; 8; 6       | Have met 3+ times  |
+| 4      | Combining Senses         | Exam on November 16     | Ch 15; 11; 12         | Have met 4+ times |
 | 5      | Perception Topic | Presentations on November 30    | To be voted upon!         | Project Presentations |
 | Final      | Cumulative | Exam on December 4    |          |  |
 
