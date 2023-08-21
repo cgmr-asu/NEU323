@@ -6,19 +6,27 @@ layout: default
 
 In addition to the material covered in class meetings, readings, and your general studies, all students enrolled in NEU 323 also must participate in a book club!
 
+### Book Club Quick Links
+* [List of Suggested Books](./BookList.html).
+* [Book Club Plan Submission Instructions and Template](https://docs.google.com/document/d/1YrJHBIYxZ4bPz8Fp4pbU3yH7ib0682kkRHAdhgsMkRg/edit?usp=sharing).
+* [Book Club Leader Report Instructions and Template](https://docs.google.com/document/d/1ZahSuFLYPK9iKkFcjcSWuzYMpvDtIiONu20y82k73EA/edit?usp=sharing).
+* Project Plan Instructions and Template: *TBA*
+* Project Presentations Instructions and Documentation Template: *TBA*
+
+
 ### What do the book clubs entail?
 You will form a book club with three or four other students and collectively choose a book that you will read across the course of the semester. During the semester, you will meet several times to discuss the book on your own time and will develop a project related in some way to the topic of your book.
 
 ### Why are we doing book clubs?
-...
+The academic understanding of perception is based on a richly interdisciplinary intercahnge of ideas; neuroscientists interested in perception draw on the ideas and experiences of other philosophers, psychologists, sociologists, biologists, artists, designers, engineers, physicists, as well as researchers from critical studies, disability studies, medicine. In many cases, our understanding can also be informed by the day-to-day life of people with a wide range of perceptual and sensory abilities. This wide pool of interconnected knowledge means that for present and future scholars like you, that you'll need to look beyond textbooks and even journal articles to start seeing connections in perception! Reading popular press books (books that are intended for a more general audience than textbooks), you can get a basic sense of a broad range of cool ideas without needing to dive as deeply into a topic in a class. Additionally, book clubs and journal clubs are one way that researchers and practitioners stay up-to-date with new ideas and findings. Once you're done with your undergraduate degree, you will probably want to keep learning, and this is one way (that doesn't require textbooks and manuals)! Many labs organize reading clubs to regularly meet and discuss readings for just this reason.
 
 ### What books can we choose?
-For a list of possible books, follow this [link](./BookList.html)! Each book club should choose a different book. Get in touch with the instructor if your group has difficulty finding a book related to your interests!
+For a list of possible books, follow this [link](./BookList.html)! Each book club must choose a different book (which is one incentive to choose and submit your plan early!). Get in touch with the instructor if your group has difficulty finding a book related to your interests!
 
 ### What do projects look like?
-...
+Projects can take many forms -- the main criterion is that they build on ideas from your book club, that they are accomplishable during the semester, and that you present them to the class in some form. They can be creative projects -- for instance, creating a performance, piece of plastic art, board or video game, or even a meal that is inspired by ideas or principles from your reading or inspired by your book club discussions. They can be research projects, broadly understood -- you could try to train yourselves on a sensory skill, or plan and conduct a small experiment, run an observational research study with non-human animals, or conduct interviews with people of interest. The project can  be political or outreach-based in nature -- for instance, a series of letters sent to politicians advocating for some issue, or the creation of materials for a public awareness campaign. It can also be an engineering project -- creating some sensing tool or robot for instance. You will complete your project during the second half of class and on the final day of the semester, present the project either as a short lecture or a more immersive in-class experience for other students. Projects will need to be approved before submitting a plan by the time of exam 3.
 
-### How are we graded on the book club? 
+### How are we graded for the book club and project? 
 25% of your total class grade is tied to your active participation in your book club. Grades related to the book club come from five subcomponents:
 
 
