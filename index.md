@@ -6,10 +6,11 @@ title: Neuroscience of Perception
 
 ## Quick Links
 
-* [Full Syllabus](...)
+* [Full Syllabus](https://drive.google.com/file/d/1COyk6I-NU6VrxbS3hymgYPl2jEc-XoKU/view?usp=sharing)
 * [Instructions for the book clubs](./BookClubs.html)
 * Instructions for Exam Preps : *TBA*
 * Grade Tracking Template: *TBA*
+* Office Hours Info: *TBA*
 
 ## Schedule
 The course is divided into five modules. The end of each module acts as the due date for materials tied to the module and coincides with either an in-class exam or the final project presentation. The topic discussed in the final module ("Topics in Perception") will be determined by a ranked choice vote in class on Wednesday, August 30.
