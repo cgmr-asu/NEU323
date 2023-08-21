@@ -17,6 +17,7 @@ One way to find a book as a group is to have each member read through the book d
 *  [*That's Disgusting: Unraveling the Mysteries of Repulsion*](https://wwnorton.com/books/9780393344165) by Rachel Herz
 *  [*Dark and Magical Places: The Neuroscience of Navigation*](https://wwnorton.com/books/9781324064381) by Christopher Kemp
 *  [*An Immense World: How Animal Senses Reveal the Hidden Realms Around Us*](https://www.penguinrandomhouse.com/books/616914/an-immense-world-by-ed-yong/) by Ed Yong
+*  [*Sleights of Mind: What the Neuroscience of Magic Reveals about Our Everyday Deceptions*](https://us.macmillan.com/books/9780312611675/sleights-of-mind) by Stephen Macknik and Susana Martinez-Conde
 *  [*How to Feel: The Science and Meaning of Touch*](https://cup.columbia.edu/book/how-to-feel/9780231553056) by Sushma Subramanian
 *  [*Neurogastronomy: How the Brain Creates Flavor and Why it Matters*](https://cup.columbia.edu/book/neurogastronomy/9780231159111) by Gordon Shepherd
 *  [*Sensehacking: How to Use the Power of Your Senses for Happier, Healthier Living*](https://mitpress.mit.edu/9780262545075/of-sound-mind/](https://www.penguin.co.uk/books/308513/sensehacking-by-spence-charles/9780241361153)https://www.penguin.co.uk/books/308513/sensehacking-by-spence-charles/9780241361153) by Charles Spence
