@@ -8,7 +8,7 @@ title: Neuroscience of Perception
 
 * [Full Syllabus](https://drive.google.com/file/d/1COyk6I-NU6VrxbS3hymgYPl2jEc-XoKU/view?usp=sharing)
 * [Instructions for the book clubs](./BookClubs.html)
-* Instructions for Exam Preps : *TBA*
+* [Instructions for Exam Prep Assignment](https://docs.google.com/document/d/1NlJmQDz0ueI5YY8AQfyEii1Swd2ZlPU99U5jbiyt0xk/edit?usp=sharing)
 * Grade Tracking Template: *TBA*
 * Office Hours Info: *TBA*
 
