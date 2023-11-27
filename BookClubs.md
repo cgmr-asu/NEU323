@@ -11,7 +11,7 @@ In addition to the material covered in class meetings, readings, and your genera
 * [Book Club Plan Submission Instructions and Template](https://docs.google.com/document/d/1YrJHBIYxZ4bPz8Fp4pbU3yH7ib0682kkRHAdhgsMkRg/edit?usp=sharing).
 * [Book Club Leader Report Instructions and Template](https://docs.google.com/document/d/1ZahSuFLYPK9iKkFcjcSWuzYMpvDtIiONu20y82k73EA/edit?usp=sharing).
 * [Project Plan Instructions and Template](https://docs.google.com/document/d/1u9Dwfywl7vEUIUI1FBd6EpI34qkW0uf-p_7VE4mecDY/edit?usp=sharing)
-* Project Presentations Instructions and Documentation Template: *TBA*
+* [Project Presentation Notes](https://docs.google.com/document/d/1qUBbBH1SvNC2rOUUz2iExRNHnYCeYNHuQNKwpjVYALE/edit?usp=sharing)
 
 
 ### What do the book clubs entail?
